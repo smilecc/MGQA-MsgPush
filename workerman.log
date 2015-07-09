@@ -1,0 +1,27 @@
+2015-03-13 09:00:43 Workerman[start.php] start
+2015-03-13 09:30:28 Workerman[start.php] stop
+2015-03-13 09:30:28 Workerman[start.php] is stoping ...
+2015-03-13 09:30:28 Workerman[start.php] Stopping ...
+2015-03-13 09:30:28 Workerman[start.php] has been stopped
+2015-03-13 09:30:28 Workerman[start.php] stop success
+2015-03-13 09:30:31 Workerman[start.php] start
+2015-03-13 09:30:40 worker[SenderBusinessWorker:18519] exit with status 65280
+2015-03-13 09:30:42 worker[SenderBusinessWorker:18520] exit with status 65280
+2015-03-13 09:30:42 worker[SenderBusinessWorker:18518] exit with status 65280
+2015-03-13 09:32:06 Workerman[start.php] stop
+2015-03-13 09:32:06 Workerman[start.php] is stoping ...
+2015-03-13 09:32:06 Workerman[start.php] Stopping ...
+2015-03-13 09:32:06 Workerman[start.php] has been stopped
+2015-03-13 09:32:06 Workerman[start.php] stop success
+2015-03-13 09:32:09 Workerman[start.php] start
+2015-03-13 10:38:44 Workerman[start.php] start
+2015-03-13 11:06:24 Workerman[start.php] restart
+2015-03-13 11:06:24 Workerman[start.php] is stoping ...
+2015-03-13 11:06:24 Workerman[start.php] Stopping ...
+2015-03-13 11:06:24 Workerman[start.php] has been stopped
+2015-03-13 11:06:24 Workerman[start.php] stop success
+2015-03-13 11:09:43 Workerman[start.php] restart
+2015-03-13 11:09:43 Workerman[start.php] is stoping ...
+2015-03-13 11:09:43 Workerman[start.php] Stopping ...
+2015-03-13 11:09:43 Workerman[start.php] has been stopped
+2015-03-13 11:09:43 Workerman[start.php] stop success
